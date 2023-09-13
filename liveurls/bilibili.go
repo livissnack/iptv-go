@@ -10,9 +10,10 @@ package liveurls
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/tidwall/gjson"
 	"io"
 	"net/http"
+
+	"github.com/tidwall/gjson"
 )
 
 type BiliBili struct {
