@@ -12,7 +12,6 @@ import (
 	"fmt"
 	"io"
 	"net/http"
-
 	"github.com/tidwall/gjson"
 )
 
